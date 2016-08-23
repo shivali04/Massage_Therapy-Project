@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>Z:\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>04/23/2016 23:17:08</publishTime>
+    </File>
+    <File Include="Admin_Dashboard.aspx">
+      <publishTime>04/23/2016 23:17:08</publishTime>
+    </File>
+    <File Include="Appointment.aspx">
+      <publishTime>04/23/2016 23:17:08</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>04/07/2016 15:08:01</publishTime>
+    </File>
+    <File Include="bin/Capstone_V1.dll">
+      <publishTime>04/24/2016 10:33:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/23/2016 23:17:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>04/23/2016 23:17:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>04/23/2016 23:17:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/23/2016 23:17:37</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>04/23/2016 23:17:37</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>04/23/2016 23:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>04/23/2016 23:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>04/23/2016 23:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>04/23/2016 23:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>04/23/2016 23:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>04/23/2016 23:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>04/23/2016 23:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>04/23/2016 23:17:38</publishTime>
+    </File>
+    <File Include="cal.jpg">
+      <publishTime>04/23/2016 23:17:08</publishTime>
+    </File>
+    <File Include="CheckTestimonial.aspx">
+      <publishTime>04/24/2016 10:30:03</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>04/23/2016 23:17:08</publishTime>
+    </File>
+    <File Include="CSS.css">
+      <publishTime>04/23/2016 23:17:09</publishTime>
+    </File>
+    <File Include="css/1-col-portfolio.css">
+      <publishTime>04/23/2016 23:17:15</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>04/23/2016 23:17:15</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>04/24/2016 10:28:01</publishTime>
+    </File>
+    <File Include="css/custom.css">
+      <publishTime>04/23/2016 23:17:15</publishTime>
+    </File>
+    <File Include="css/jquery.smartmenus.bootstrap.css">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="css/owl/owl.carousel.css">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="css/owl/owl.carousel.js">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="css/owl/owl.theme.css">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="css/owl/owl.transitions.css">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="Customer_Account.aspx">
+      <publishTime>04/23/2016 23:17:09</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/22/2016 20:03:09</publishTime>
+    </File>
+    <File Include="displaytestimonial.aspx">
+      <publishTime>04/23/2016 23:17:09</publishTime>
+    </File>
+    <File Include="docs/Client_Intake.pdf">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="docs/Policies_Procedures.pdf">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="Extension.min.js">
+      <publishTime>04/23/2016 23:17:09</publishTime>
+    </File>
+    <File Include="failed.aspx">
+      <publishTime>04/23/2016 23:17:09</publishTime>
+    </File>
+    <File Include="FAQ.aspx">
+      <publishTime>04/23/2016 23:17:09</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.css">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.min.css">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/FontAwesome.otf">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/less/bordered-pulled.less">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/less/core.less">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/less/fixed-width.less">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/less/font-awesome.less">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/less/icons.less">
+      <publishTime>04/23/2016 23:17:16</publishTime>
+    </File>
+    <File Include="font-awesome/less/larger.less">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/less/list.less">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/less/mixins.less">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/less/path.less">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/less/rotated-flipped.less">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/less/spinning.less">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/less/stacked.less">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/less/variables.less">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/font-awesome.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_bordered-pulled.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_core.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_fixed-width.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_icons.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_larger.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_list.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_mixins.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_path.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_rotated-flipped.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_spinning.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_stacked.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_variables.scss">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="fonts/font-awesome.min.css">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>04/23/2016 23:17:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="forms.aspx">
+      <publishTime>04/23/2016 23:17:09</publishTime>
+    </File>
+    <File Include="Gift.aspx">
+      <publishTime>04/23/2016 23:17:09</publishTime>
+    </File>
+    <File Include="GiftCertsPaypal.aspx">
+      <publishTime>04/23/2016 23:17:10</publishTime>
+    </File>
+    <File Include="img/700x300.jpg">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="img/agsquare_%402X.png">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="img/banner.jpg">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="img/banner1.jpg">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="img/caro1.jpg">
+      <publishTime>04/23/2016 23:17:18</publishTime>
+    </File>
+    <File Include="img/caro2.jpg">
+      <publishTime>04/23/2016 23:17:19</publishTime>
+    </File>
+    <File Include="img/caro3.jpg">
+      <publishTime>04/23/2016 23:17:19</publishTime>
+    </File>
+    <File Include="img/logo.png">
+      <publishTime>04/23/2016 23:17:19</publishTime>
+    </File>
+    <File Include="img/massCranial.jpg">
+      <publishTime>04/23/2016 23:17:19</publishTime>
+    </File>
+    <File Include="img/massDeepTissue.jpg">
+      <publishTime>04/23/2016 23:17:19</publishTime>
+    </File>
+    <File Include="img/massHotStone.jpg">
+      <publishTime>04/23/2016 23:17:19</publishTime>
+    </File>
+    <File Include="img/massSwedish.jpg">
+      <publishTime>04/23/2016 23:17:19</publishTime>
+    </File>
+    <File Include="img/portfolio/item01.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/portfolio/item02.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/portfolio/item03.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/portfolio/item04.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/portfolio/item05.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/portfolio/item06.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/products/1.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/products/2.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/products/3.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/sheri_photo.jpg">
+      <publishTime>04/23/2016 23:17:19</publishTime>
+    </File>
+    <File Include="img/transactoin-failed.jpg">
+      <publishTime>04/23/2016 23:17:19</publishTime>
+    </File>
+    <File Include="img/triangular_%402X.png">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/zen_flowers.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="img/zen_med.jpg">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="js/contact.js">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="js/jquery-1.10.2.min.js">
+      <publishTime>04/23/2016 23:17:21</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="js/jquery.smartmenus.bootstrap.js">
+      <publishTime>04/23/2016 23:17:20</publishTime>
+    </File>
+    <File Include="js/jquery.smartmenus.js">
+      <publishTime>04/23/2016 23:17:21</publishTime>
+    </File>
+    <File Include="js/tutorial.js">
+      <publishTime>04/23/2016 23:17:21</publishTime>
+    </File>
+    <File Include="js/wow.min.js">
+      <publishTime>04/23/2016 23:17:21</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>04/23/2016 23:17:10</publishTime>
+    </File>
+    <File Include="logo.jpg">
+      <publishTime>04/23/2016 23:17:10</publishTime>
+    </File>
+    <File Include="MailingList.aspx">
+      <publishTime>04/23/2016 23:17:10</publishTime>
+    </File>
+    <File Include="Medical History.docx">
+      <publishTime>04/23/2016 23:17:10</publishTime>
+    </File>
+    <File Include="NotLogged.Master">
+      <publishTime>04/23/2016 23:17:10</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/23/2016 23:17:11</publishTime>
+    </File>
+    <File Include="personalinfo.docx">
+      <publishTime>04/23/2016 23:17:11</publishTime>
+    </File>
+    <File Include="POLICIES.docx">
+      <publishTime>04/23/2016 23:17:11</publishTime>
+    </File>
+    <File Include="ScheduleApp.aspx">
+      <publishTime>04/23/2016 23:17:11</publishTime>
+    </File>
+    <File Include="Services.aspx">
+      <publishTime>04/23/2016 23:17:11</publishTime>
+    </File>
+    <File Include="SignUp.aspx">
+      <publishTime>04/23/2016 23:17:11</publishTime>
+    </File>
+    <File Include="success.aspx">
+      <publishTime>04/23/2016 23:17:11</publishTime>
+    </File>
+    <File Include="template.html">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="Template.Master">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="testimonial.aspx">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="testimonial1.aspx">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="Update.aspx">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="UpdateService.aspx">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="usertestimony.aspx">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="vid.html">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="videos.aspx">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="viewarticles.aspx">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="ViewServices.aspx">
+      <publishTime>04/23/2016 23:17:12</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/24/2016 10:33:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
